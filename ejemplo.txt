@@ -1,1 +1,2 @@
-Esto es una prueba
+#Esto es una prueba
+#He creado el fichero ejemplo.txt
