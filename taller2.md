@@ -26,7 +26,7 @@ Y otras finalmente ***en otro párrafo pero en negrita cursiva.***
 
 [Otro fichero markdown](Otro%20fichero%20markdown.md)
 
-![Markdown](markdown.png "Imagen de Markdown")
+![Markdown](img/markdown.png "Imagen de Markdown")
 
 |Objeto|Precio|Cantidad|
 |----:|:----|:----:|
